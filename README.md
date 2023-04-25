@@ -15,3 +15,11 @@ My name's [Virgil](https://www.linkedin.com/in/virgillopez/), and it's an honest
 I'm always finding ways to keep myself productive, whether it be with projects, family, or any of my other hobbies.
 
 I'm also actively involved in the [Kubernetes @Home](https://github.com/k8s-at-home) organizations here on Github.
+
+---
+
+<div align="center">
+    <a href="https://github.com/Euvaz/github-readme-stats">
+        <img src="https://raw.githubusercontent.com/Euvaz/Euvaz/main/github-metrics.svg" />
+    </a>
+</div>
