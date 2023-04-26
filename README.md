@@ -10,7 +10,7 @@
 
 ### Howdy!
 
-My name's [Virgil](https://www.linkedin.com/in/virgillopez/), and it's an honest pleasure to meet you!
+My name's [Virgil](https://www.linkedin.com/in/VirgilLopez/), and it's an honest pleasure to meet you!
 
 I'm always finding ways to keep myself productive, whether it be with projects, family, or any of my other hobbies.
 
